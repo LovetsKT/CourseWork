@@ -1,9 +1,4 @@
 ﻿using Couresework2.CoinCollectionApp.Models.CoinCollectionApp.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Couresework2.CoinCollectionApp.Models
 {
